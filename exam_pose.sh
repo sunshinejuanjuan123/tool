@@ -1,0 +1,5 @@
+source /root/miniconda3/bin/activate /iag_ad_01/ad/yuanweizhong/miniconda/vggt
+# python exam_pose.py --rgb_dir /iag_ad_01/ad/yuanweizhong/datasets/senseauto/2024_09_08_07_53_23_pathway_pilotGtParser/camera/example_dataset/example_scene1/images --intrinsic_dir /iag_ad_01/ad/yuanweizhong/datasets/senseauto/2024_09_08_07_53_23_pathway_pilotGtParser/camera/example_dataset/example_scene1/intrins --pose_dir /iag_ad_01/ad/yuanweizhong/datasets/senseauto/2024_09_08_07_53_23_pathway_pilotGtParser/camera/example_dataset/example_scene1/poses --save_dir ./output--mode2
+
+
+python exam_pose.py --rgb_dir /iag_ad_01/ad/yuanweizhong/datasets/senseauto/2024_09_08_07_53_23_pathway_pilotGtParser/camera/example_dataset/example_scene1/images --intrinsic_dir /iag_ad_01/ad/yuanweizhong/datasets/senseauto/2024_09_08_07_53_23_pathway_pilotGtParser/camera/example_dataset/example_scene1/intrins --pose_dir /iag_ad_01/ad/yuanweizhong/datasets/senseauto/2024_09_08_07_53_23_pathway_pilotGtParser/camera/example_dataset/example_scene1/poses --save_dir ./output--mode2 --mode2
